@@ -1,7 +1,7 @@
 package com.wonder.bring.utils;
 
 //재정의한 StatusCode
-public class Status {
+public class StatusCode {
     public static final int OK = 200;
     public static final int CREATED = 201;
     public static final int NO_CONTENT = 204;
